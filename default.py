@@ -43,13 +43,6 @@ welcome_description = 'Descrição do Addon\n\n[B][COLOR white]Versão: [/COLOR]
 ##############################################################################
 
 
-<item>
-<title>Hesgoal</title>
-<link>https://hesgoal.com</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
-</item>
 
 
 
