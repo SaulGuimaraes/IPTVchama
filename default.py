@@ -31,7 +31,7 @@ url_menu = 'https://pastebin.com/raw/2Avy07FX'
 addon_id = 'plugin.video.testando'
 ##############################################################################
 ####  BOAS VINDAS DO ADDON  ##################################################
-welcome_message = '[B][COLOR white]||||||| ADDON TESTE |||||||[/COLOR][/B]'
+welcome_message = '[B][COLOR white]PRINCIPAL[/COLOR][/B]'
 ##############################################################################
 ####  LINK DO MENU BOAS VINDAS ###############################################
 ## OBS: POR PADRÃO JÁ TEM UM MENU EM BRANCO PARA NÃO TER ERRO AO CLICAR
